@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stacked</string>
+    <string name="sign_out">Log Out</string>
+    <string name="send_button_label">Send</string>
+</resources>
